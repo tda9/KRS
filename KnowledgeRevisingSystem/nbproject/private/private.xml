@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/src/java/dao/DAOUser.java</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/src/java/controller/home/ContactServlet.java</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/web/admin/addSubject.jsp</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/web/admin/settingDetails.jsp</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/web/admin/subjectDetails.jsp</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/web/WEB-INF/web.xml</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/web/homepage.jsp</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/web/admin/addSetting.jsp</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/src/java/controller/home/UserServlet.java</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/src/java/controller/home/BlogServlet.java</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/src/java/filter/Authentication.java</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/src/java/controller/admin/TrainingServlet.java</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/src/java/filter/Authorization.java</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/web/layout/header.jsp</file>
+            <file>file:/D:/G5(3)/se1816-g5/KnowledgeRevisingSystem/web/login.jsp</file>
+        </group>
+    </open-files>
+</project-private>
